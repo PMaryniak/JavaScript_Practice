@@ -1,11 +1,13 @@
-//This code takes in a string and reverses it
-function reverseString(str) {
-  var array = [];
-  var string = str;
-  array = string.split('');
-  array = array.reverse();
-  string = array.join('');
-  return string;
+//Find the longest word in a sentence
+function findLongestWord(str) {
+  var longest = 0;
+  var sen = str.split(" ");
+  for (var i = 0; i < sen.length; i++) {
+    if (sen[i].length > longest) {
+      longest = sen[i].length;  
+    }
+  }
+  return longest;
 }
 
-reverseString("hello");
+findLongestWord("The quick brown fox jumped over the lazy dog");
