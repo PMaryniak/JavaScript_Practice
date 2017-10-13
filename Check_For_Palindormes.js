@@ -12,7 +12,7 @@ function palindrome2(str) {
     var word = str.replace(/[\W_]/g, '').toLowerCase().split('');
     var j = word.length - 1;
 
-    for(i = 0; i < word.length -1; i++) {
+    for(i = 0; i < word.length; i++) {
         if (word[i] !==  word[j]) {
             return false;
         }
