@@ -3,8 +3,7 @@ function chunkArrayInGroups(arr, size) {
     var chunk = [];
     var j = 0;
     for(var i = 0; i < arr.length; i += size) {
-        var sliced = arr.slice(i, i + size);
-        chunk[j] = sliced;
+        chunk[j] = arr.slice(i, i + size);;
         j++;
     }
 
