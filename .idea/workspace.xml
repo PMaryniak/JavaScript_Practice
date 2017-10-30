@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de02d964-a14b-467e-ba02-d514b9fee065" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Where_Do_I_Belong.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Where_Do_I_Belong.js" afterPath="$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Where_Do_I_Belong.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,8 +57,8 @@
       <file leaf-file-name="Where_Do_I_Belong.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Where_Do_I_Belong.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            <state relative-caret-position="30">
+              <caret line="1" column="34" lean-forward="false" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -202,7 +202,7 @@
       <workItem from="1508462820763" duration="687000" />
       <workItem from="1509072238747" duration="251000" />
       <workItem from="1509328408407" duration="1017000" />
-      <workItem from="1509402369235" duration="1011000" />
+      <workItem from="1509402369235" duration="1068000" />
     </task>
     <task id="LOCAL-00001" summary="-Added code to Factorialize Number">
       <created>1507673359877</created>
@@ -309,11 +309,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509402733064</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Added Where Do I Belong to Basic Algorithms.">
+      <created>1509406996025</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1509406996025</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18185000" />
+    <option name="totallyTimeSpent" value="18242000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="271" y="221" width="1711" height="1185" extended-state="0" />
@@ -372,7 +379,8 @@
     <MESSAGE value="Added Falsy Bouncer." />
     <MESSAGE value="Edited Falsy Bouncer and edited code to be less redundant." />
     <MESSAGE value="Added Seek and Destroy to Basic Algorithms." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Seek and Destroy to Basic Algorithms." />
+    <MESSAGE value="Added Where Do I Belong to Basic Algorithms." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Where Do I Belong to Basic Algorithms." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -498,8 +506,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Where_Do_I_Belong.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        <state relative-caret-position="30">
+          <caret line="1" column="34" lean-forward="false" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
           <folding />
         </state>
       </provider>
