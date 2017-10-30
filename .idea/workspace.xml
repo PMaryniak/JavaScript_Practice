@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de02d964-a14b-467e-ba02-d514b9fee065" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Falsy Bouncer.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Falsy Bouncer.js" afterPath="$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Falsy Bouncer.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Falsy Bouncer.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+              <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -179,7 +179,7 @@
       <workItem from="1508462304236" duration="53000" />
       <workItem from="1508462820763" duration="687000" />
       <workItem from="1509072238747" duration="251000" />
-      <workItem from="1509328408407" duration="118000" />
+      <workItem from="1509328408407" duration="311000" />
     </task>
     <task id="LOCAL-00001" summary="-Added code to Factorialize Number">
       <created>1507673359877</created>
@@ -265,11 +265,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509072482858</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Added Falsy Bouncer.">
+      <created>1509328649470</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1509328649470</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16275000" />
+    <option name="totallyTimeSpent" value="16468000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="271" y="221" width="1711" height="1185" extended-state="0" />
@@ -315,7 +322,8 @@
     <MESSAGE value="Edited Chunky Monkey code to make it more efficient. Added Slasher FLcik File." />
     <MESSAGE value="Added the practice file of the first chapter in Up &amp; Going." />
     <MESSAGE value="Added Mutations Javascript file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Mutations Javascript file" />
+    <MESSAGE value="Added Falsy Bouncer." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Falsy Bouncer." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -402,7 +410,7 @@
     <entry file="file://$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Falsy Bouncer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
           <folding />
         </state>
       </provider>

@@ -1,7 +1,6 @@
 //Remove Falsy values in an array.
 function bouncer(arr) {
-    var list = arr.filter(Boolean);
-    return list;
+    return arr.filter(Boolean);
 }
 
 bouncer([false, null, 0, NaN, undefined, ""]);
