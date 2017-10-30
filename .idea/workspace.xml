@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de02d964-a14b-467e-ba02-d514b9fee065" name="Default" comment="Added the practice file of the first chapter in Up &amp; Going.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Mutations.js" />
+    <list default="true" id="de02d964-a14b-467e-ba02-d514b9fee065" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Falsy Bouncer.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,11 +24,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Mutations.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Mutations.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Mutations.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            <state relative-caret-position="240">
+              <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Falsy Bouncer.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Falsy Bouncer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -60,6 +70,7 @@
         <option value="$PROJECT_DIR$/Slasher_Flick.js" />
         <option value="$PROJECT_DIR$/YDKJS/Up &amp; Going Exercises/Chap1_Exercise.js" />
         <option value="$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Mutations.js" />
+        <option value="$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Falsy Bouncer.js" />
       </list>
     </option>
   </component>
@@ -78,7 +89,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="2718" />
+    <option name="x" value="271" />
+    <option name="y" value="221" />
     <option name="width" value="1711" />
     <option name="height" value="1185" />
   </component>
@@ -98,6 +110,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,7 +139,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -166,7 +178,8 @@
       <workItem from="1508367029065" duration="1494000" />
       <workItem from="1508462304236" duration="53000" />
       <workItem from="1508462820763" duration="687000" />
-      <workItem from="1509072238747" duration="218000" />
+      <workItem from="1509072238747" duration="251000" />
+      <workItem from="1509328408407" duration="118000" />
     </task>
     <task id="LOCAL-00001" summary="-Added code to Factorialize Number">
       <created>1507673359877</created>
@@ -245,14 +258,21 @@
       <option name="project" value="LOCAL" />
       <updated>1508463488870</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added Mutations Javascript file">
+      <created>1509072482858</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1509072482858</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16124000" />
+    <option name="totallyTimeSpent" value="16275000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2718" y="0" width="1711" height="1185" extended-state="0" />
+    <frame x="271" y="221" width="1711" height="1185" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13156343" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -294,13 +314,30 @@
     <MESSAGE value="Edited Chunky Monkey code to be less redundant." />
     <MESSAGE value="Edited Chunky Monkey code to make it more efficient. Added Slasher FLcik File." />
     <MESSAGE value="Added the practice file of the first chapter in Up &amp; Going." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the practice file of the first chapter in Up &amp; Going." />
+    <MESSAGE value="Added Mutations Javascript file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Mutations Javascript file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/YDKJS/Up &amp; Going Exercises/Chap1_Exercise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Mutations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/YDKJS/Up &amp; Going Exercises/Chap1_Exercise.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -356,8 +393,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Mutations.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        <state relative-caret-position="240">
+          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Falsy Bouncer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
           <folding />
         </state>
       </provider>
