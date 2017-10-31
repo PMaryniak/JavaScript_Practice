@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de02d964-a14b-467e-ba02-d514b9fee065" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Caesars_Cipher.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Where_Do_I_Belong.js" afterPath="$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Where_Do_I_Belong.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,26 +24,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Mutations.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Mutations.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Falsy Bouncer.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Falsy Bouncer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="46" lean-forward="true" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Seek and Destroy.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Seek and Destroy.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -54,11 +34,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Where_Do_I_Belong.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Where_Do_I_Belong.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Where_Do_I_Belong.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="1" column="34" lean-forward="false" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+            <state relative-caret-position="60">
+              <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Caesars_Cipher.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Caesars_Cipher.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="39" lean-forward="true" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -93,6 +83,7 @@
         <option value="$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Falsy Bouncer.js" />
         <option value="$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Seek and Destroy.js" />
         <option value="$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Where_Do_I_Belong.js" />
+        <option value="$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Caesars_Cipher.js" />
       </list>
     </option>
   </component>
@@ -111,8 +102,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="271" />
-    <option name="y" value="221" />
+    <option name="x" value="2826" />
+    <option name="y" value="22" />
     <option name="width" value="1711" />
     <option name="height" value="1185" />
   </component>
@@ -202,7 +193,7 @@
       <workItem from="1508462820763" duration="687000" />
       <workItem from="1509072238747" duration="251000" />
       <workItem from="1509328408407" duration="1017000" />
-      <workItem from="1509402369235" duration="1068000" />
+      <workItem from="1509402369235" duration="2428000" />
     </task>
     <task id="LOCAL-00001" summary="-Added code to Factorialize Number">
       <created>1507673359877</created>
@@ -316,14 +307,21 @@
       <option name="project" value="LOCAL" />
       <updated>1509406996025</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Got rid of comment on Where Do I Belong.">
+      <created>1509407046126</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1509407046126</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18242000" />
+    <option name="totallyTimeSpent" value="19602000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="271" y="221" width="1711" height="1185" extended-state="0" />
+    <frame x="2826" y="22" width="1711" height="1185" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13156343" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -380,7 +378,8 @@
     <MESSAGE value="Edited Falsy Bouncer and edited code to be less redundant." />
     <MESSAGE value="Added Seek and Destroy to Basic Algorithms." />
     <MESSAGE value="Added Where Do I Belong to Basic Algorithms." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Where Do I Belong to Basic Algorithms." />
+    <MESSAGE value="Got rid of comment on Where Do I Belong." />
+    <option name="LAST_COMMIT_MESSAGE" value="Got rid of comment on Where Do I Belong." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -472,26 +471,10 @@
     <entry file="file://$PROJECT_DIR$/Truncate_String.js" />
     <entry file="file://$PROJECT_DIR$/Chunky_Monkey.js" />
     <entry file="file://$PROJECT_DIR$/Slasher_Flick.js" />
-    <entry file="file://$PROJECT_DIR$/YDKJS/Up &amp; Going Exercises/Chap1_Exercise.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Mutations.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Falsy Bouncer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="46" lean-forward="true" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
           <folding />
         </state>
       </provider>
@@ -504,10 +487,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Falsy Bouncer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="46" lean-forward="true" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YDKJS/Up &amp; Going Exercises/Chap1_Exercise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Where_Do_I_Belong.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="34" lean-forward="false" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+        <state relative-caret-position="60">
+          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Freecodecamp/Basic Algorithms/Caesars_Cipher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="39" lean-forward="true" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
           <folding />
         </state>
       </provider>
