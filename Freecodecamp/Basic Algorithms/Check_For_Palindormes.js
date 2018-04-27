@@ -1,4 +1,4 @@
-//Basic version of inding a palindrome if its a short string.
+//Basic version of indexing a palindrome if its a short string.
 function palindrome(str) {
 
     return str.replace(/[\W_]/g, '').toLowerCase() ===
